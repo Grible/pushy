@@ -2,6 +2,8 @@
 
 Pushy is a responsive off-canvas navigation menu using CSS transforms & transitions. This project was inspired by the off-canvas navigation menu seen on [Medium](https://medium.com/).
 
+This fork has modified the original plugin to now have the off-canvas menu on the right side of the window. It is inspired by [this blog post](http://code.antrikshy.com/make-pushy-off-canvas-menu-appear-from-the-right/).
+
 Pushy has been implemented on many sites, [check them out!](https://github.com/christophery/pushy#sites-using-pushy) Feel free to [let me know](http://www.twitter.com/cmyee) if you use Pushy in one of your websites.
 
 [View Demo](http://www.christopheryee.ca/pushy) | [WordPress Theme](https://github.com/christophery/pushypress)
